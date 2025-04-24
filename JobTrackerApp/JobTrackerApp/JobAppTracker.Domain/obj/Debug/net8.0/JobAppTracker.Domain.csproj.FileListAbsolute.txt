@@ -1,0 +1,11 @@
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\bin\Debug\net8.0\JobAppTracker.Domain.deps.json
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\bin\Debug\net8.0\JobAppTracker.Domain.dll
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\bin\Debug\net8.0\JobAppTracker.Domain.pdb
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\obj\Debug\net8.0\JobAppTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\obj\Debug\net8.0\JobAppTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\obj\Debug\net8.0\JobAppTracker.Domain.AssemblyInfo.cs
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\obj\Debug\net8.0\JobAppTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\obj\Debug\net8.0\JobAppTracker.Domain.dll
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\obj\Debug\net8.0\refint\JobAppTracker.Domain.dll
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\obj\Debug\net8.0\JobAppTracker.Domain.pdb
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Domain\obj\Debug\net8.0\ref\JobAppTracker.Domain.dll

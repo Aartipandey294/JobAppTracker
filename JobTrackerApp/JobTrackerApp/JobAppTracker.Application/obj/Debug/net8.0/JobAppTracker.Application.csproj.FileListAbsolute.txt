@@ -1,0 +1,15 @@
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\bin\Debug\net8.0\JobAppTracker.Application.deps.json
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\bin\Debug\net8.0\JobAppTracker.Application.dll
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\bin\Debug\net8.0\JobAppTracker.Application.pdb
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\bin\Debug\net8.0\JobAppTracker.Domain.dll
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\bin\Debug\net8.0\JobAppTracker.Domain.pdb
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\JobAppTracker.Application.csproj.AssemblyReference.cache
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\JobAppTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\JobAppTracker.Application.AssemblyInfoInputs.cache
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\JobAppTracker.Application.AssemblyInfo.cs
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\JobAppTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\JobAppTr.B815E681.Up2Date
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\JobAppTracker.Application.dll
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\refint\JobAppTracker.Application.dll
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\JobAppTracker.Application.pdb
+C:\Users\nirma\source\repos\JobTrackerApp\JobTrackerApp\JobAppTracker.Application\obj\Debug\net8.0\ref\JobAppTracker.Application.dll
