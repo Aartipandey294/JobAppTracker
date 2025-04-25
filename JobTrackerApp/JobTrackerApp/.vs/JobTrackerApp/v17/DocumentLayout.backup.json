@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\",
+  "WorkspaceRootPath": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|solutionrelative:jobapptracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|solutionrelative:jobapptracker.api\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.infrastructure\\repositories\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|solutionrelative:jobapptracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.infrastructure\\repositories\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|solutionrelative:jobapptracker.infrastructure\\repositories\\jobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.application\\interfaces\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.application\\interfaces\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|solutionrelative:jobapptracker.application\\interfaces\\ijobapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.domain\\jobapptracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.domain\\jobapptracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|solutionrelative:jobapptracker.domain\\jobapptracker.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.application\\dtos\\jobstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.application\\dtos\\jobstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|solutionrelative:jobapptracker.application\\dtos\\jobstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.application\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.application\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|solutionrelative:jobapptracker.application\\dtos\\jobapplicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|solutionrelative:jobapptracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|solutionrelative:jobapptracker.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.api\\jobapptracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.api\\jobapptracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{764C6357-AD99-485E-92D5-61ACD4CB963C}|JobAppTracker.Api\\JobAppTracker.Api.csproj|solutionrelative:jobapptracker.api\\jobapptracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|solutionrelative:jobapptracker.domain\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.infrastructure\\jobapptracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.infrastructure\\jobapptracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|solutionrelative:jobapptracker.infrastructure\\jobapptracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A8EFB0C-558A-40A3-B76A-904E89C9646F}|JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj|solutionrelative:jobapptracker.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DF43D2A-A597-4554-B005-904F4EF33B63}|JobAppTracker.Application\\JobAppTracker.Application.csproj|solutionrelative:jobapptracker.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|c:\\users\\nirma\\source\\repos\\jobtrackerapp\\jobtrackerapp\\jobapptracker.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|e:\\datacom_project jobtrackerapp\\jobapptracker\\jobtrackerapp\\jobtrackerapp\\jobapptracker.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E308B3C-1750-462E-A219-E6CA7EE679EE}|JobAppTracker.Domain\\JobAppTracker.Domain.csproj|solutionrelative:jobapptracker.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -80,37 +80,36 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "JobStatusUpdateDto.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\DTOs\\JobStatusUpdateDto.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\DTOs\\JobStatusUpdateDto.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Application\\DTOs\\JobStatusUpdateDto.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\DTOs\\JobStatusUpdateDto.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\DTOs\\JobStatusUpdateDto.cs",
               "RelativeToolTip": "JobAppTracker.Application\\DTOs\\JobStatusUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:34:28.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T10:34:28.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Program.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Program.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Program.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Program.cs",
               "RelativeToolTip": "JobAppTracker.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T01:59:15.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ApplicationsController.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Controllers\\ApplicationsController.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Controllers\\ApplicationsController.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Api\\Controllers\\ApplicationsController.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Controllers\\ApplicationsController.cs",
               "RelativeToolTip": "JobAppTracker.Api\\Controllers\\ApplicationsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T01:55:56.479Z",
               "EditorCaption": ""
@@ -119,61 +118,57 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "JobApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Repositories\\JobApplicationService.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Repositories\\JobApplicationService.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Infrastructure\\Repositories\\JobApplicationService.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Repositories\\JobApplicationService.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Repositories\\JobApplicationService.cs",
               "RelativeToolTip": "JobAppTracker.Infrastructure\\Repositories\\JobApplicationService.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAcwFMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T01:53:14.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T01:53:14.517Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeToolTip": "JobAppTracker.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T01:52:17.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T01:52:17.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "JobApplicationDto.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\DTOs\\JobApplicationDto.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\DTOs\\JobApplicationDto.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Application\\DTOs\\JobApplicationDto.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\DTOs\\JobApplicationDto.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\DTOs\\JobApplicationDto.cs",
               "RelativeToolTip": "JobAppTracker.Application\\DTOs\\JobApplicationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T01:49:36.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T01:49:36.586Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IJobApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\Interfaces\\IJobApplicationService.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\Interfaces\\IJobApplicationService.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Application\\Interfaces\\IJobApplicationService.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\Interfaces\\IJobApplicationService.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\Interfaces\\IJobApplicationService.cs",
               "RelativeToolTip": "JobAppTracker.Application\\Interfaces\\IJobApplicationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T01:50:47.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T01:50:47.607Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Properties\\launchSettings.json",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "JobAppTracker.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "JobAppTracker.Api\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -183,22 +178,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "JobAppTracker.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\JobAppTracker.Domain.csproj",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\JobAppTracker.Domain.csproj",
               "RelativeDocumentMoniker": "JobAppTracker.Domain\\JobAppTracker.Domain.csproj",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\JobAppTracker.Domain.csproj",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\JobAppTracker.Domain.csproj",
               "RelativeToolTip": "JobAppTracker.Domain\\JobAppTracker.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T01:51:17.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T01:51:17.778Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "JobAppTracker.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj",
               "RelativeDocumentMoniker": "JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj",
               "RelativeToolTip": "JobAppTracker.Infrastructure\\JobAppTracker.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -208,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "JobAppTracker.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\JobAppTracker.Api.csproj",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\JobAppTracker.Api.csproj",
               "RelativeDocumentMoniker": "JobAppTracker.Api\\JobAppTracker.Api.csproj",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\JobAppTracker.Api.csproj",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Api\\JobAppTracker.Api.csproj",
               "RelativeToolTip": "JobAppTracker.Api\\JobAppTracker.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -220,9 +214,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "JobApplication.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\Models\\JobApplication.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\Models\\JobApplication.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Domain\\Models\\JobApplication.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\Models\\JobApplication.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\Models\\JobApplication.cs",
               "RelativeToolTip": "JobAppTracker.Domain\\Models\\JobApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -232,9 +226,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Class1.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Class1.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Infrastructure\\Class1.cs",
               "RelativeToolTip": "JobAppTracker.Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -244,9 +238,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\Class1.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\Class1.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\Class1.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Application\\Class1.cs",
               "RelativeToolTip": "JobAppTracker.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -256,9 +250,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\Class1.cs",
+              "DocumentMoniker": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "JobAppTracker.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\nirma\\source\\repos\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\Class1.cs",
+              "ToolTip": "E:\\Datacom_Project JobTrackerApp\\JobAppTracker\\JobTrackerApp\\JobTrackerApp\\JobAppTracker.Domain\\Class1.cs",
               "RelativeToolTip": "JobAppTracker.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
